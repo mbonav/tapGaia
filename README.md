@@ -12,7 +12,7 @@ This package provides a module interface to TAP as well as not so basic examples
 ## Quick install
 
 ```
-pip install git+https://github.com/mfouesneau/tap
+pip install git+https://github.com/mbonav/tapGaia
 ```
 
 ## Content
